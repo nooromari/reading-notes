@@ -1,4 +1,4 @@
-# reading-notes
+
 ## Growth mindset
 
 **If you think that you need a specific power to do something creative, so you are right you need this power from your mind, because intelligence or talent are not enough they are just good starting points.

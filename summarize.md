@@ -17,7 +17,7 @@ So, if you choose the github for your journey and want to build a page with mark
 2. On the new repository screen, you need to give this repository a special name (for first time you have to choose README.md).
 Now you can start build your page, just press the pen and start and there are some of Markdown syntax that you can use:
 
- #### Headers
+#### Headers
  
 `# The largest heading`
 
@@ -45,10 +45,14 @@ http://github.com - automatic!
 
 `[GitHub](http://github.com)`
 
-###### Make sure you commit all changes you have done.
+You can find more syntax [here](https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax)
 
-3. To begin setting up your site, you have to open the Settings tab and find GitHub Pages section make sure that choose main next you can press on save bottom to have you page link.
-4. The quickest way to get up and running is by using the Jekyll Theme Chooser to load a pre-made theme. 
+3. Make sure you commit all changes you have done.
+
+4. To begin setting up your site, you have to open the Settings tab and find GitHub Pages section make sure that choose main next you can press on save bottom to have you page link.
+5. The quickest way to get up and running is by using the Jekyll Theme Chooser to load a pre-made theme. 
 Choose the theme you like then click the [Choose a theme] button.
 
-![Steps summerize](https://www.coderomeos.org/storage/uploads/images/posts/how-to-use-github-simple-github-tutorial-for-beginners-5d75f561e98d4.png)
+### Steps summary
+
+![Steps summary](https://www.coderomeos.org/storage/uploads/images/posts/how-to-use-github-simple-github-tutorial-for-beginners-5d75f561e98d4.png)

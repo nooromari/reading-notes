@@ -33,3 +33,57 @@ In addition, It is set up to greatly minimize the possibility of irreversible da
 
 
 ![](https://static.javatpoint.com/tutorial/git/images/git-index.png)
+
+
+### Download Git  
+
+In order to use Git, your computer must have it available. If you already have Git on your computer, you should make sure you have the latest version.
+
+For Git install you can see more [here](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/#4_1)
+
+*After making sure Git has been installed, you should perform some steps.*
+
+You can follow it from the image below or from link [here](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/#4_3)
+
+![](https://rubygarage.s3.amazonaws.com/uploads/article_image/file/599/git-cheatsheet-5.jpg)
+
+
+
+## Workflow
+
+### Local Repository Structure
+
+The local Git repository has three components:
+
+1. Working Directory: The actual files reside here.
+2. Index: The area used for staging
+3. Head: Points to the most recent commit
+
+
+### Saving Changes
+
+All files in a checked out (or working) copy of a project file are either in a tracked or untracked state.
+
+- Tracked : unmodified, or staged; they were part of the most recent file snapshot.
+
+- Untracked : not in the last snapshot and do not currently reside in the staging area.
+
+
+### The Life Cycle of File Status
+
+After you edit a file, Git flags it as modified because of changes made after the previous commit and stage the modified file.Then, you commit staged changes.
+
+![](https://git-scm.com/figures/18333fig0201-tn.png)
+
+
+And for more detales you can press [here](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/#5)
+
+##### Go back from [here](https://nooromari.github.io/reading-notes/summarize)
+
+
+
+
+
+
+
+

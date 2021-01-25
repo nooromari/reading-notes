@@ -22,3 +22,14 @@ Addresses the major vulnerability of the a CVCS by allows clients to create mirr
 
 
  ![](https://s26500.pcdn.co/wp-content/uploads/2019/09/VCS_Diff.png)
+ 
+ 
+ 
+## So, what is Git?
+
+Git is a DVCS that stores data in a file system made up of **snapshots** . Each time you save (commit) a changed version of your project Git creates a snapshot of the file and stores a reference to it. Also, Git mostly relies on local operations because most necessary information can be found in **local resources** . This allows for process expediency because a project’s history resides on the local disk and allowing one to continue work on a project even when not online or on a VPN.
+Every single change applied to any file or directory is tracked by Git. And, as the gatekeeper, Git will always detect file corruption or loss of information in transit.
+In addition, It is set up to greatly minimize the possibility of irreversible damage to files. That makes it extremely difficult to lose committed files. In the last, Files in Git can reside in three main states: committed, modified and staged.
+
+
+![](https://static.javatpoint.com/tutorial/git/images/git-index.png)

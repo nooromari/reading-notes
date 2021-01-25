@@ -57,4 +57,4 @@ Choose the theme you like then click the [Choose a theme] button.
 
 ![Steps summary](https://www.coderomeos.org/storage/uploads/images/posts/how-to-use-github-simple-github-tutorial-for-beginners-5d75f561e98d4.png)
  
- Go to have more detales [here](https://nooromari.github.io/reading-notes/summarize)
+ Go to have more detales [here](https://nooromari.github.io/reading-notes/Read02b)

@@ -19,3 +19,6 @@ This system entails a single server storing all changes and file versions, which
 ### Distributed Version Control (DVCS)
 
 Addresses the major vulnerability of the a CVCS by allows clients to create mirrored repositories. These data backups can be easily by placed on the server to replace any lost information.
+
+
+ ![](https://s26500.pcdn.co/wp-content/uploads/2019/09/VCS_Diff.png)

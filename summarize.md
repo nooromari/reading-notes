@@ -17,7 +17,7 @@ A lightweight markup language (LML)|is a markup language with simple, unobtrusiv
 - On the new repository screen, you need to give this repository a special name (for first time you have to choose README.md).
 Now you can start build your page, just press the pen and start and there are some of Markdown syntax that you can use:
 
- #### Headers
+#### Headers
  
 `# The largest heading`
 
@@ -56,3 +56,5 @@ Choose the theme you like then click the [Choose a theme] button.
 ### Steps summary
 
 ![Steps summary](https://www.coderomeos.org/storage/uploads/images/posts/how-to-use-github-simple-github-tutorial-for-beginners-5d75f561e98d4.png)
+ 
+ Go to have more detales [here](https://nooromari.github.io/reading-notes/summarize)

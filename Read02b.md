@@ -1,4 +1,4 @@
-# GitHub
+# Git
 
 ##### In order to explain Git, we have to first explain various aspects of Version Control.
 

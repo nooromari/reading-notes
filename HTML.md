@@ -43,4 +43,6 @@ Hypertext Markup Language (HTML) is the standard markup language for documents d
 - Older browsers that do not understand HTML5 elements need to be told which elements are block-level elements.
 - To make HTML5 elements work in Internet Explorer 8 (and older versions of IE), extra JavaScript is needed, which is available free from Google.
 
+![](https://coursework.vschool.io/content/images/2018/01/html5_sectioning_high_level.jpg)
+
 

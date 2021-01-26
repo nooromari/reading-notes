@@ -7,8 +7,8 @@ you can contact me in [GitHub](https://github.com/nooromari) or [LinkedIn](https
 
 ### Table of contants
 
+1. [Growth mindset](https://nooromari.github.io/reading-notes/Growthmind)
 1. [Github](https://nooromari.github.io/reading-notes/Read02a) 
 1. [Git](https://nooromari.github.io/reading-notes/Read02b)
-1. [Growth mindset](https://github.com/nooromari/reading-notes/blob/main/Growthmindset)
 1. [HTML]()
 

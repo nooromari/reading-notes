@@ -1,15 +1,11 @@
 
-# Growth mindset
+![Hi](https://lh3.googleusercontent.com/proxy/kztgprSRAjKP8lUaQK6w-OIqb1ZSaYAKY5DETBD7uBG80HvyAbE3GpnpH1pRqK-2wMi65BhGwviKJEYWuRWGkIFuAxBMFkL7aztXroZ1jd-P55pfyE_HmTWwa0vY4gSykDLH)
 
-**If you think that you need a specific power to do something creative, so you are right you need this power from your mind, because intelligence or talent are not enough they are just good starting points.
-So when you love learning  your abilities can be developed through perseverance and effort and that what is called *Growth mindset*.**
-<!--blank line-->
-![](https://knilt.arcc.albany.edu/images/2/2e/GrowthMindset2.png)
+I am Noor Al-Omari, Iam a civil engineering graduated from Al-Balqa Applied University. I have a passion for learning new things and to take new experiences. I am interested in programming and I am developing my skills in this field.
 
-<!--blank line-->
-#### The most things help me to keep growth mind:
-1. Have positive friends.
-2. Read about success people and their challenges. 
-3. Follow my passion.
 
-To know more about growth mindset [press here](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
+### Table of contants
+
+1. [Github](https://nooromari.github.io/reading-notes/Read02b) 
+1. [Git]()
+1. [HTML]()

@@ -78,7 +78,7 @@ After you edit a file, Git flags it as modified because of changes made after th
 
 And for more detales you can press [here](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/#5)
 
-##### Go back from [here](https://nooromari.github.io/reading-notes/summarize)
+##### Go back from [here](https://nooromari.github.io/reading-notes/Read02a)
 
 
 

@@ -6,6 +6,7 @@ I am Noor Al-Omari, Iam a civil engineering graduated from Al-Balqa Applied Univ
 
 ### Table of contants
 
-1. [Github](https://nooromari.github.io/reading-notes/Read02b) 
-1. [Git]()
+1. [Github](https://nooromari.github.io/reading-notes/Read02a) 
+1. [Git](https://nooromari.github.io/reading-notes/Read02b)
+1. [Growth mindset](https://github.com/nooromari/reading-notes/blob/main/Growth%20mindset)
 1. [HTML]()

@@ -11,4 +11,4 @@ you can contact me in [GitHub](https://github.com/nooromari) or [LinkedIn](https
 1. [Github](https://nooromari.github.io/reading-notes/Read02a) 
 1. [Git](https://nooromari.github.io/reading-notes/Read02b)
 1. [HTML](https://nooromari.github.io/reading-notes/HTML)
-1. [JavaScript](https://nooromari.github.io/reading-notes/read03)
+1. [JavaScript](https://nooromari.github.io/reading-notes/read04)

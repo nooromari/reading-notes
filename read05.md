@@ -42,7 +42,7 @@ loops through a block of code a number of times.
 
 ### While loop
 
-The while loop loops through a block of code as long as a specified condition is true.
+The while loop loops through a block of code as long as a specified condition is true.*We can use it when we don't know how many loops we need*
 
 **Syntax**
 

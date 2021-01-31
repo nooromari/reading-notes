@@ -5,12 +5,15 @@ CSS allows you to create rules that specify how the content of an element should
 
 ![CSSselector](https://hackernoon.com/drafts/2z4a3yh4.png)
 
-* Selectors: indicate which element the rule applies to. The same rule can apply to more than one element if you separate the element names with commas.
-* Declarations: sit inside curly brackets and each is made up of two parts: a property and a value, separated by a colon.  
+
+* **Selectors** : indicate which element the rule applies to. The same rule can apply to more than one element if you separate the element names with commas.
+* **Declarations** : sit inside curly brackets and each is made up of two parts: a property and a value, separated by a colon. 
+
+  * **Properties** : indicate the aspects of the element you want to change.
+  * **Values** : specify the settings you want to use for the chosen properties.
+
 *You can specify several properties in one declaration, each separated by a semi-colon.*
 
-  * Properties: indicate the aspects of the element you want to change.
-  * Values: specify the settings you want to use for the chosen properties.
 
 
 ## Using CSS
@@ -21,9 +24,10 @@ The `<link>` element can be used in an HTML document to tell the browser where t
 
 `<link href="css/styles.css" type="text/css"rel="stylesheet" />`
 
-1. href: This specifies the path to the CSS file (which is often placed in a folder called css or styles).
-1. type: This attribute specifies the type of document being linked to. The value should be text/css.
-1. rel: This specifies the relationship between the HTML page and the file it is linked to. The value should be stylesheet when linking to a CSS file.
+
+1. *href* : This specifies the path to the CSS file (which is often placed in a folder called css or styles).
+1. *type* : This attribute specifies the type of document being linked to. The value should be text/css.
+1. *rel* : This specifies the relationship between the HTML page and the file it is linked to. The value should be stylesheet when linking to a CSS file.
 
 *When building a site with more than one page, you should use an external CSS style sheet.*
 
@@ -65,17 +69,21 @@ There are 147 predefined color names that are recognized by browsers. For exampl
 | Values   | Put Pipes In | 
 
 
-4. The **hsl** color property has been introduced in *CSS3* as an alternative way to specify colors. The value of the property starts with the letters hsl, followed by individual values inside parentheses for:
 
-- hue: This is expressed as an angle (between 0 and 360 degrees).
-- saturation: This is expressed as a percentage.
-- lightness: This is expressed as a percentage with 0% being white, 50% being normal, and 100% being black.
+
+The **hsl** color property has been introduced in *CSS3* as an alternative way to specify colors. The value of the property starts with the letters hsl, followed by individual values inside parentheses for:
+
+- *hue* : This is expressed as an angle (between 0 and 360 degrees).
+- *saturation* : This is expressed as a percentage.
+- *lightness* : This is expressed as a percentage with 0% being white, 50% being normal, and 100% being black.
 
 CSS3 allows you to specify colors as hsl values, with an optional opacity value. It is known as `hsla`, while tha a is for alpha.
 
 - alpha: fourth value which represents transparency This is expressed as a number between 0 and 1.0  .
 
+
 ![](https://i0.wp.com/www.cssscript.com/wp-content/uploads/2017/01/Minimal-HSLA-Color-picker-With-Pure-JavaScript.png?fit=543%2C408&ssl=1)
+
 
 CSS3 Also, has introduced an extra value for `rgb` colors to indicate opacity. It is known as `rgba`. 
 

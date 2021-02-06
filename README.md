@@ -22,7 +22,7 @@ you can contact me in [GitHub](https://github.com/nooromari) or [LinkedIn](https
 
 | Content | link |
 | ----------- | ----------- |
-|  |  | 
+| HTML & JavaScript | [class-01](https://nooromari.github.io/reading-notes/class-01) | 
 |  |  | 
 |  |  | 
 |  |  | 

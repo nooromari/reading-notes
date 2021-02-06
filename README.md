@@ -5,7 +5,9 @@ I am Noor Al-Omari, Iam a civil engineering graduated from Al-Balqa Applied Univ
 
 you can contact me in [GitHub](https://github.com/nooromari) or [LinkedIn](https://www.linkedin.com/in/noor-al-omari-596ba8196)
 
-### Table of contants
+**This is my reading notes (summary) of the topics that I learned in software development**
+
+## Code 102 Reading Notes
 
 1. [Growth mindset](https://nooromari.github.io/reading-notes/Growthmind)
 1. [Github](https://nooromari.github.io/reading-notes/Read02a) 
@@ -14,3 +16,25 @@ you can contact me in [GitHub](https://github.com/nooromari) or [LinkedIn](https
 1. [JavaScript](https://nooromari.github.io/reading-notes/read04)
   * [Comparison, logical operators and Loops](https://nooromari.github.io/reading-notes/read05)
 1. [CSS](https://nooromari.github.io/reading-notes/read06) 
+
+
+## Code 201 Reading Notes
+
+| Content | link |
+| ----------- | ----------- |
+|  |  | 
+|  |  | 
+|  |  | 
+|  |  | 
+|  |  | 
+|  |  | 
+|  |  | 
+|  |  | 
+|  |  | 
+|  |  | 
+|  |  | 
+|  |  | 
+|  |  | 
+|  |  | 
+|  |  | 
+|  |  | 

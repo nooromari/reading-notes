@@ -1,7 +1,5 @@
 # Class 02
 
-## Text
-
 ### Structural markup:
 
 The elements that you can use to describe both headings and paragraphs.
@@ -105,7 +103,7 @@ You can also assign a value to the variable when you declare it: `var userName =
 All JavaScript variables must be identified with unique names.
 The general rules for constructing names for variables (unique identifiers) are:
 
-- Names can contain letters, digits, underscores, and dollar signs but must begin with a letter $ or _ .
+- Names can contain letters, digits, underscores, and dollar signs but must begin with a letter `$` or `_` .
 - Names are case sensitive (x and X are different variables).
 - Reserved words (like for,if) cannot be used as names.
 
@@ -115,11 +113,17 @@ The general rules for constructing names for variables (unique identifiers) are:
 
 #### Arrays:
 An array is a special type of variable that stores a list of values.
+
 *Syntax:*
-`var array_name = [item1, item2, ...];`     
+
+`var array_name = [item1, item2, ...];`    
+
 *Example:*
+
 `var names = ['noor','batool','sara'];`   *array literal*
+
 **or**
+
 `var names = new Array ('noor','batool','sara');`   *array constructor*
 
 

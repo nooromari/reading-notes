@@ -22,19 +22,19 @@ you can contact me in [GitHub](https://github.com/nooromari) or [LinkedIn](https
 
 | Content | link |
 | ----------- | ----------- |
-| HTML & JavaScript | [class-01](https://nooromari.github.io/reading-notes/class-01) | 
-|  |  | 
-|  |  | 
-|  |  | 
-|  |  | 
-|  |  | 
-|  |  | 
-|  |  | 
-|  |  | 
-|  |  | 
-|  |  | 
-|  |  | 
-|  |  | 
-|  |  | 
-|  |  | 
-|  |  | 
+|1.  | [class-01](https://nooromari.github.io/reading-notes/class-01) | 
+|1.  | [class-02](https://nooromari.github.io/reading-notes/class-02) | 
+|1.  |  | 
+|1.  |  | 
+|1.  |  | 
+|1.  |  | 
+|1.  |  | 
+|1.  |  | 
+|1.  |  | 
+|1.  |  | 
+|1.  |  | 
+|1.  |  | 
+|1.  |  | 
+|1.  |  | 
+|1.  |  | 
+|1.  |  | 

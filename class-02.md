@@ -99,7 +99,7 @@ You can declare a variable with the var keyword: `var userName;`
 After the declaration, the variable has no value (technically it has the value of `undefined`). To assign a value to the variable, use the equal sign: `userName = 'Noor';`
 You can also assign a value to the variable when you declare it: `var userName = 'Noor';`
 
-#### Variables mames:
+#### Variables names:
 All JavaScript variables must be identified with unique names.
 The general rules for constructing names for variables (unique identifiers) are:
 
@@ -162,7 +162,7 @@ Expressions rely on things called *operators*; they allow programmers to create 
 
     `buy= (5 > 3) && (2 < 4);`   *The value of buy is now true.*
 
-#### More opeartors below:
+#### More operators below:
 
 
 ![](https://i.pinimg.com/originals/13/09/cb/1309cb725dea3e859a873607dd298d00.png)

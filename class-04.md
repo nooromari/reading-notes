@@ -24,7 +24,7 @@ email to be sent to.
 
 ### Target:
 
-If you want a link to open in a new window, you can use the target attribute on the opening <a> tag. The value of this attribute should be "_blank".
+If you want a link to open in a new window, you can use the target attribute on the opening <a> tag. The value of this attribute should be `_blank`.
 
 *Example:*
 `<a href="http://www.imdb.com" target="_blank">`

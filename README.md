@@ -9,6 +9,8 @@ you can contact me in [GitHub](https://github.com/nooromari) or [LinkedIn](https
 
 ## Code 102 Reading Notes
 
+**Table of content:**
+
 1. [Growth mindset](https://nooromari.github.io/reading-notes/Growthmind)
 1. [Github](https://nooromari.github.io/reading-notes/Read02a) 
 1. [Git](https://nooromari.github.io/reading-notes/Read02b)
@@ -18,14 +20,17 @@ you can contact me in [GitHub](https://github.com/nooromari) or [LinkedIn](https
 1. [CSS](https://nooromari.github.io/reading-notes/read06) 
 
 
+
 ## Code 201 Reading Notes
+
+**Table of content:**
 
 | Content | link |
 | ----------- | ----------- |
 |1.  | [class-01](https://nooromari.github.io/reading-notes/class-01) | 
 |2.  | [class-02](https://nooromari.github.io/reading-notes/class-02) | 
 |3.  | [class-03](https://nooromari.github.io/reading-notes/class-03) | 
-|4.  |  | 
+|4.  | [class-04](https://nooromari.github.io/reading-notes/class-04) | 
 |5.  |  | 
 |6.  |  | 
 |7.  |  | 

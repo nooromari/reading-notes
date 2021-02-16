@@ -35,7 +35,7 @@ you can contact me in [GitHub](https://github.com/nooromari) or [LinkedIn](https
 |6.  | [class-06](https://nooromari.github.io/reading-notes/class-06) | 
 |7.  | [class-07](https://nooromari.github.io/reading-notes/class-07) | 
 |8.  | [class-08](https://nooromari.github.io/reading-notes/class-08) | 
-|9.  |  | 
+|9.  | [class-09](https://nooromari.github.io/reading-notes/class-09) | 
 |10.  |  | 
 |11.  |  | 
 |12.  |  | 

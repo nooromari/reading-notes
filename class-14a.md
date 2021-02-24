@@ -12,5 +12,4 @@ The researchers eventually concluded that what distinguished the ‘‘good’�
 
   - Second, the good teams all had high ‘‘average social sensitivity’’ — a fancy way of saying they were skilled at intuiting how others felt based on their tone of voice, their expressions and other nonverbal cues. 
 
-  
-
+To read more [go here](https://www.nytimes.com/2016/02/28/magazine what-google-learned-from-its-quest-to-build-the-perfect-team.html)

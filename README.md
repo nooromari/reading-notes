@@ -40,5 +40,5 @@ you can contact me in [GitHub](https://github.com/nooromari) or [LinkedIn](https
 |11.  | [class-11](https://nooromari.github.io/reading-notes/class-11) | 
 |12.  | [class-12](https://nooromari.github.io/reading-notes/class-12) | 
 |13.  | [class-13](https://nooromari.github.io/reading-notes/class-13) | 
-|14.  |  | 
-|15.  |  | 
+|14.  | [class-14a](https://nooromari.github.io/reading-notes/class-14a) | 
+|15.  | [class-14b](https://nooromari.github.io/reading-notes/class-14b) | 

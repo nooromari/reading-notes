@@ -1,3 +1,4 @@
+# Reading Notes 
 
 ![Hi](https://www.hi-agentur.de/images/LG_Hi%20Agentur.png)
 
@@ -7,7 +8,7 @@ you can contact me in [GitHub](https://github.com/nooromari) or [LinkedIn](https
 
 **This is my reading notes (summary) of the topics that I learned in software development**
 
-## Code 102 Reading Notes
+## Code 102 - Intro to Software Development
 
 **Table of content:**
 
@@ -21,7 +22,7 @@ you can contact me in [GitHub](https://github.com/nooromari) or [LinkedIn](https
 
 
 
-## Code 201 Reading Notes
+## Code 201 - Foundations of Software Development
 
 **Table of content:**
 
@@ -42,3 +43,10 @@ you can contact me in [GitHub](https://github.com/nooromari) or [LinkedIn](https
 |13.  | [class-13](https://nooromari.github.io/reading-notes/class-13) | 
 |14.  | [class-14a](https://nooromari.github.io/reading-notes/class-14a) | 
 |15.  | [class-14b](https://nooromari.github.io/reading-notes/class-14b) | 
+
+
+## Code 301 - Intermediate Software Development
+
+
+
+## Code 401 - Advanced Software Development

@@ -47,6 +47,24 @@ you can contact me in [GitHub](https://github.com/nooromari) or [LinkedIn](https
 
 ## Code 301 - Intermediate Software Development
 
+**Table of content:**
 
+| Content | link |
+| ----------- | ----------- |
+|1. SMACSS and Responsive Web Design | [301read-01](https://nooromari.github.io/reading-notes/301read-01) | 
+|2.  |  | 
+|3.  |  | 
+|4.  |  | 
+|5.  |  | 
+|6.  |  | 
+|7.  |  | 
+|8.  |  | 
+|9.  |  | 
+|10.  |  | 
+|11.  |  | 
+|12.  |  | 
+|13.  |  | 
+|14.  |  | 
+|15.  |  | 
 
 ## Code 401 - Advanced Software Development

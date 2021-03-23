@@ -54,7 +54,7 @@ you can contact me in [GitHub](https://github.com/nooromari) or [LinkedIn](https
 |1. SMACSS and Responsive Web Design | [301read-01](https://nooromari.github.io/reading-notes/301read-01) | 
 |2. jQuery, Events, and The DOM | [301read-02](https://nooromari.github.io/reading-notes/301read-02) | 
 |3. Flexbox and Templating | [301read-03](https://nooromari.github.io/reading-notes/301read-03) | 
-|4.  |  | 
+|4. CSS GRID and Regular Expressions | [301read-04](https://nooromari.github.io/reading-notes/301read-04) | 
 |5.  |  | 
 |6.  |  | 
 |7.  |  | 

@@ -56,7 +56,7 @@ you can contact me in [GitHub](https://github.com/nooromari) or [LinkedIn](https
 |3. Flexbox and Templating | [301read-03](https://nooromari.github.io/reading-notes/301read-03) | 
 |4. CSS GRID and Regular Expressions | [301read-04](https://nooromari.github.io/reading-notes/301read-04) | 
 |5. Heroku | [301read-05](https://nooromari.github.io/reading-notes/301read-05) | 
-|6.  |  | 
+|6. NODE.JS | [301read-06](https://nooromari.github.io/reading-notes/301read-06) | 
 |7.  |  | 
 |8.  |  | 
 |9.  |  | 

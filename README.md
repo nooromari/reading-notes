@@ -58,7 +58,7 @@ you can contact me in [GitHub](https://github.com/nooromari) or [LinkedIn](https
 |5. Heroku | [301read-05](https://nooromari.github.io/reading-notes/301read-05) | 
 |6. NODE.JS | [301read-06](https://nooromari.github.io/reading-notes/301read-06) | 
 |7. REST | [301read-07](https://nooromari.github.io/reading-notes/301read-07) | 
-|8.  |  | 
+|8. SQL | [301read-08](https://nooromari.github.io/reading-notes/301read-08) | 
 |9.  |  | 
 |10.  |  | 
 |11.  |  | 

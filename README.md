@@ -60,7 +60,7 @@ you can contact me in [GitHub](https://github.com/nooromari) or [LinkedIn](https
 |7. REST | [301read-07](https://nooromari.github.io/reading-notes/301read-07) | 
 |8. SQL | [301read-08](https://nooromari.github.io/reading-notes/301read-08) | 
 |9. Refactoring | [301read-09](https://nooromari.github.io/reading-notes/301read-09) | 
-|10.  |  | 
+|10. The Call Stack and Debugging | [301read-10](https://nooromari.github.io/reading-notes/301read-10) | 
 |11.  |  | 
 |12.  |  | 
 |13.  |  | 

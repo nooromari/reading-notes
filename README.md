@@ -61,7 +61,7 @@ you can contact me in [GitHub](https://github.com/nooromari) or [LinkedIn](https
 |8. SQL | [301read-08](https://nooromari.github.io/reading-notes/301read-08) | 
 |9. Refactoring | [301read-09](https://nooromari.github.io/reading-notes/301read-09) | 
 |10. The Call Stack and Debugging | [301read-10](https://nooromari.github.io/reading-notes/301read-10) | 
-|11.  |  | 
+|11. EJS | [301read11](https://nooromari.github.io/reading-notes/301read11) | 
 |12.  |  | 
 |13.  |  | 
 |14.  |  | 

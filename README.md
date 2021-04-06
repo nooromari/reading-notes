@@ -64,7 +64,7 @@ you can contact me in [GitHub](https://github.com/nooromari) or [LinkedIn](https
 |11. EJS | [301read11](https://nooromari.github.io/reading-notes/301read11) | 
 |12. EJS Partials | [301read12](https://nooromari.github.io/reading-notes/301read12) | 
 |13. Sending Form Data | [301read13](https://nooromari.github.io/reading-notes/301read13) | 
-|14.  |  | 
+|14. DB Normalization | [301read14](https://nooromari.github.io/reading-notes/301read14) | 
 |15.  |  | 
 
 

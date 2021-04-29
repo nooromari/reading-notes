@@ -28,21 +28,21 @@ you can contact me in [GitHub](https://github.com/nooromari) or [LinkedIn](https
 
 | Content | link |
 | ----------- | ----------- |
-|1.  | [class-01](https://nooromari.github.io/201/class-01) | 
-|2.  | [class-02](https://nooromari.github.io/201/class-02) | 
-|3.  | [class-03](https://nooromari.github.io/201/class-03) | 
-|4.  | [class-04](https://nooromari.github.io/201/class-04) | 
-|5.  | [class-05](https://nooromari.github.io/201/class-05) | 
-|6.  | [class-06](https://nooromari.github.io/201/class-06) | 
-|7.  | [class-07](https://nooromari.github.io/201/class-07) | 
-|8.  | [class-08](https://nooromari.github.io/201/class-08) | 
-|9.  | [class-09](https://nooromari.github.io/201/class-09) | 
-|10.  | [class-10](https://nooromari.github.io/201/class-10) | 
-|11.  | [class-11](https://nooromari.github.io/201/class-11) | 
-|12.  | [class-12](https://nooromari.github.io/201/class-12) | 
-|13.  | [class-13](https://nooromari.github.io/201/class-13) | 
-|14.  | [class-14a](https://nooromari.github.io/201/class-14a) | 
-|15.  | [class-14b](https://nooromari.github.io/201/class-14b) | 
+|1.  | [class-01](https://nooromari.github.io/reading-notes/201/class-01) | 
+|2.  | [class-02](https://nooromari.github.io/reading-notes/201/class-02) | 
+|3.  | [class-03](https://nooromari.github.io/reading-notes/201/class-03) | 
+|4.  | [class-04](https://nooromari.github.io/reading-notes/201/class-04) | 
+|5.  | [class-05](https://nooromari.github.io/reading-notes/201/class-05) | 
+|6.  | [class-06](https://nooromari.github.io/reading-notes/201/class-06) | 
+|7.  | [class-07](https://nooromari.github.io/reading-notes/201/class-07) | 
+|8.  | [class-08](https://nooromari.github.io/reading-notes/201/class-08) | 
+|9.  | [class-09](https://nooromari.github.io/reading-notes/201/class-09) | 
+|10.  | [class-10](https://nooromari.github.io/reading-notes/201/class-10) | 
+|11.  | [class-11](https://nooromari.github.io/reading-notes/201/class-11) | 
+|12.  | [class-12](https://nooromari.github.io/reading-notes/201/class-12) | 
+|13.  | [class-13](https://nooromari.github.io/reading-notes/201/class-13) | 
+|14.  | [class-14a](https://nooromari.github.io/reading-notes/201/class-14a) | 
+|15.  | [class-14b](https://nooromari.github.io/reading-notes/201/class-14b) | 
 
 
 ## Code 301 - Intermediate Software Development
@@ -52,20 +52,20 @@ you can contact me in [GitHub](https://github.com/nooromari) or [LinkedIn](https
 | Content | link |
 | ----------- | ----------- |
 |1. SMACSS and Responsive Web Design | [301read-01](https://nooromari.github.io/reading-notes/301/301read-01) | 
-|2. jQuery, Events, and The DOM | [301read-02](https://nooromari.github.io/301/301read-02) | 
-|3. Flexbox and Templating | [301read-03](https://nooromari.github.io/301/301read-03) | 
-|4. CSS GRID and Regular Expressions | [301read-04](https://nooromari.github.io/301/301read-04) | 
-|5. Heroku | [301read-05](https://nooromari.github.io/301/301read-05) | 
-|6. NODE.JS | [301read-06](https://nooromari.github.io/301/301read-06) | 
-|7. REST | [301read-07](https://nooromari.github.io/301/301read-07) | 
-|8. SQL | [301read-08](https://nooromari.github.io/301/301read-08) | 
-|9. Refactoring | [301read-09](https://nooromari.github.io/301/301read-09) | 
-|10. The Call Stack and Debugging | [301read-10](https://nooromari.github.io/301/301read-10) | 
-|11. EJS | [301read11](https://nooromari.github.io/301/301read11) | 
-|12. EJS Partials | [301read12](https://nooromari.github.io/301/301read12) | 
-|13. Sending Form Data | [301read13](https://nooromari.github.io/301/301read13) | 
-|14. DB Normalization | [301read14](https://nooromari.github.io/301/301read14) | 
-|15. Diversity and Inclusion | [301read15](https://nooromari.github.io/301/301read15) | 
+|2. jQuery, Events, and The DOM | [301read-02](https://nooromari.github.io/reading-notes/301/301read-02) | 
+|3. Flexbox and Templating | [301read-03](https://nooromari.github.io/reading-notes/301/301read-03) | 
+|4. CSS GRID and Regular Expressions | [301read-04](https://nooromari.github.io/reading-notes/301/301read-04) | 
+|5. Heroku | [301read-05](https://nooromari.github.io/reading-notes/301/301read-05) | 
+|6. NODE.JS | [301read-06](https://nooromari.github.io/reading-notes/301/301read-06) | 
+|7. REST | [301read-07](https://nooromari.github.io/reading-notes/301/301read-07) | 
+|8. SQL | [301read-08](https://nooromari.github.io/reading-notes/301/301read-08) | 
+|9. Refactoring | [301read-09](https://nooromari.github.io/reading-notes/301/301read-09) | 
+|10. The Call Stack and Debugging | [301read-10](https://nooromari.github.io/reading-notes/301/301read-10) | 
+|11. EJS | [301read11](https://nooromari.github.io/reading-notes/301/301read11) | 
+|12. EJS Partials | [301read12](https://nooromari.github.io/reading-notes/301/301read12) | 
+|13. Sending Form Data | [301read13](https://nooromari.github.io/reading-notes/301/301read13) | 
+|14. DB Normalization | [301read14](https://nooromari.github.io/reading-notes/301/301read14) | 
+|15. Diversity and Inclusion | [301read15](https://nooromari.github.io/reading-notes/301/301read15) | 
 
 
 ## Code 401 - Advanced Software Development

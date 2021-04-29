@@ -74,18 +74,18 @@ you can contact me in [GitHub](https://github.com/nooromari) or [LinkedIn](https
 
 | Content | link |
 | ----------- | ----------- |
-|1.  |  | 
-|2.  |  | 
-|3.  |  | 
-|4.  |  | 
-|5.  |  | 
-|6.  |  | 
-|7.  |  | 
-|8.  |  | 
-|9.  |  | 
-|10.  |  | 
-|11.  |  | 
-|12.  |  | 
-|13.  |  | 
-|14.  |  | 
-|15.  |  | 
+|1. | [class01](https://nooromari.github.io/reading-notes/401/class01) | 
+|2. | [class02](https://nooromari.github.io/reading-notes/401/class02) | 
+|3. | [class03](https://nooromari.github.io/reading-notes/401/class03) | 
+|4. | [class04](https://nooromari.github.io/reading-notes/401/class04) | 
+|5. | [class05](https://nooromari.github.io/reading-notes/401/class05) | 
+|6. | [class06](https://nooromari.github.io/reading-notes/401/class06) | 
+|7. | [class07](https://nooromari.github.io/reading-notes/401/class07) | 
+|8. | [class08](https://nooromari.github.io/reading-notes/401/class08) | 
+|9. | [class09](https://nooromari.github.io/reading-notes/401/class09) | 
+|10. | [class10](https://nooromari.github.io/reading-notes/401/class10) | 
+|11. | [class11](https://nooromari.github.io/reading-notes/401/class11) | 
+|12. | [class12](https://nooromari.github.io/reading-notes/401/class12) | 
+|13. | [class13](https://nooromari.github.io/reading-notes/401/class13) | 
+|14. | [class14](https://nooromari.github.io/reading-notes/401/class14) | 
+|15. | [class15](https://nooromari.github.io/reading-notes/401/class15) | 

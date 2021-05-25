@@ -1,12 +1,14 @@
 ## Data Visualization
 
+![](https://az801952.vo.msecnd.net/uploads/b9335f90-bb61-4773-899e-3927c923b9be.png)
+
+
 ### Matplotlib package
 
 - **Matplotlib** is probably the single most used Python package for 2D-graphics. It provides both a very quick way to visualize data from Python and publication-quality figures in many formats. We are going to explore matplotlib in interactive mode covering most common cases.
 
 - Matplotlib comes with a set of default settings that allow customizing all kinds of properties. You can control the defaults of almost every property in matplotlib: figure size and dpi, line width, color and style, axes, axis and grid properties, text and font properties and so on.
 
-![](https://az801952.vo.msecnd.net/uploads/b9335f90-bb61-4773-899e-3927c923b9be.png)
 
 *example:*
 

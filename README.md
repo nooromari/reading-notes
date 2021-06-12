@@ -93,12 +93,6 @@ you can contact me in [GitHub](https://github.com/nooromari) or [LinkedIn](https
 |17. | [class17](https://nooromari.github.io/reading-notes/401/class17) | 
 |18. | [class18](https://nooromari.github.io/reading-notes/401/class18) | 
 |19. | [class19](https://nooromari.github.io/reading-notes/401/class19) | 
-|20. | [class20](https://nooromari.github.io/reading-notes/401/class20) | 
-|21. | [class21](https://nooromari.github.io/reading-notes/401/class21) | 
-|22. | [class22](https://nooromari.github.io/reading-notes/401/class22) | 
-|23. | [class23](https://nooromari.github.io/reading-notes/401/class23) | 
-|24. | [class24](https://nooromari.github.io/reading-notes/401/class24) | 
-|25. | [class25](https://nooromari.github.io/reading-notes/401/class25) | 
 |26. | [class26](https://nooromari.github.io/reading-notes/401/class26) | 
 |27. | [class27](https://nooromari.github.io/reading-notes/401/class27) | 
 |28. | [class28](https://nooromari.github.io/reading-notes/401/class28) | 
@@ -119,3 +113,9 @@ you can contact me in [GitHub](https://github.com/nooromari) or [LinkedIn](https
 |43. | [class43](https://nooromari.github.io/reading-notes/401/class43) | 
 |44. | [class44](https://nooromari.github.io/reading-notes/401/class44) | 
 |45. | [class45](https://nooromari.github.io/reading-notes/401/class45) |  
+<!-- |20. | [class20](https://nooromari.github.io/reading-notes/401/class20) | 
+|21. | [class21](https://nooromari.github.io/reading-notes/401/class21) | 
+|22. | [class22](https://nooromari.github.io/reading-notes/401/class22) | 
+|23. | [class23](https://nooromari.github.io/reading-notes/401/class23) | 
+|24. | [class24](https://nooromari.github.io/reading-notes/401/class24) | 
+|25. | [class25](https://nooromari.github.io/reading-notes/401/class25) |  -->

@@ -47,6 +47,7 @@ The JWT is acquired by exchanging an username + password for an access token and
 - For setup we should install `djangorestframework_simplejwt` library.
 
 - settings.py
+
 ```
 REST_FRAMEWORK = {
     'DEFAULT_AUTHENTICATION_CLASSES': [
@@ -56,6 +57,7 @@ REST_FRAMEWORK = {
 ```
 
 - urls.py
+
 ```
 from django.urls import path
 from rest_framework_simplejwt import views as jwt_views
@@ -87,7 +89,8 @@ class HelloView(APIView):
 
 - urls.py
 
-```from django.urls import path
+```
+from django.urls import path
 from myapi.core import views
 
 urlpatterns = [

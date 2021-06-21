@@ -58,6 +58,7 @@ REST_FRAMEWORK = {
 
 - urls.py
 
+
 ```
 from django.urls import path
 from rest_framework_simplejwt import views as jwt_views
@@ -67,32 +68,6 @@ urlpatterns = [
     path('api/token/', jwt_views.TokenObtainPairView.as_view(), name='token_obtain_pair'),
     path('api/token/refresh/', jwt_views.TokenRefreshView.as_view(), name='token_refresh'),
 ]
-```
-
-### Example
-
-- views.py
 
 ```
-from rest_framework.views import APIView
-from rest_framework.response import Response
-from rest_framework.permissions import IsAuthenticated
 
-
-class HelloView(APIView):
-    permission_classes = (IsAuthenticated,)
-
-    def get(self, request):
-        content = {'message': 'Hello, World!'}
-        return Response(content)
-```
-
-- urls.py
-
-```
-from django.urls import path
-from myapi.core import views
-
-urlpatterns = [
-    path('hello/', views.HelloView.as_view(), name='hello'),
-```

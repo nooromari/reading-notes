@@ -110,7 +110,7 @@ you can contact me in [GitHub](https://github.com/nooromari) or [LinkedIn](https
 |40. | [class40](https://nooromari.github.io/reading-notes/401/class40) |
 |41. | [class41](https://nooromari.github.io/reading-notes/401/class41) | 
 |42. | [class42](https://nooromari.github.io/reading-notes/401/class42) | 
-|43. | [class43](https://nooromari.github.io/reading-notes/401/class43) | 
+|43. | [class42-a](https://nooromari.github.io/reading-notes/401/class42-a) | 
 |44. | [class44](https://nooromari.github.io/reading-notes/401/class44) | 
 |45. | [class45](https://nooromari.github.io/reading-notes/401/class45) |  
 <!-- |20. | [class20](https://nooromari.github.io/reading-notes/401/class20) | 

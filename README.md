@@ -120,5 +120,5 @@ you can contact me in [GitHub](https://github.com/nooromari) or [LinkedIn](https
 
 ## Resources:
 
-**[Resources](https://nooromari.github.io/reading-notes/Resources)**
+**[Resources](https://nooromari.github.io/reading-notes/resources)**
 

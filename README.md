@@ -20,8 +20,6 @@ you can contact me in [GitHub](https://github.com/nooromari) or [LinkedIn](https
   * [Comparison, logical operators and Loops](https://nooromari.github.io/reading-notes/read05)
 1. [CSS](https://nooromari.github.io/reading-notes/read06) 
 
-
-
 ## Code 201 - Foundations of Software Development
 
 **Table of content:**
@@ -119,3 +117,8 @@ you can contact me in [GitHub](https://github.com/nooromari) or [LinkedIn](https
 |23. | [class23](https://nooromari.github.io/reading-notes/401/class23) | 
 |24. | [class24](https://nooromari.github.io/reading-notes/401/class24) | 
 |25. | [class25](https://nooromari.github.io/reading-notes/401/class25) |  -->
+
+## Resources:
+
+**[Resources](https://nooromari.github.io/reading-notes/Resources)**
+

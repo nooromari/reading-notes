@@ -34,8 +34,18 @@
 
 
 ## **Resources-301**:
+- [ECMAScript 2015(ES6)](https://262.ecma-international.org/6.0/)
+- [Arrow Functions](https://wesbos.com/arrow-functions)
+- [Arrow Functions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions)
 
 ## **Resources-401**:
+
+
+### React
+- [React lifecycle](https://medium.com/@joshuablankenshipnola/react-component-lifecycle-events-cb77e670a093)
+- [React Bootstrap](https://react-bootstrap.github.io/)
+- [React State Vs Props](https://www.youtube.com/watch?v=IYvD9oBCuJI)
+- [React Docs](https://reactjs.org/docs/getting-started.html)
 
 
 [Back](https://nooromari.github.io/reading-notes)

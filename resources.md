@@ -37,6 +37,16 @@
 - [ECMAScript 2015(ES6)](https://262.ecma-international.org/6.0/)
 - [Arrow Functions](https://wesbos.com/arrow-functions)
 - [Arrow Functions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions)
+- [The Conditional (Ternary)](https://codeburst.io/javascript-the-conditional-ternary-operator-explained-cac7218beeff)
+- [async and await](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous/Async_await)
+- [axios](https://www.npmjs.com/package/axios)
+- [Location APIs](https://locationiq.com/)
+- [Node.js intro](https://www.sitepoint.com/an-introduction-to-node-js/)
+- [SQL vs NoSQL](https://www.thegeekstuff.com/2014/01/sql-vs-nosql-db/?utm_source=tuicool)
+- [HTTP Status Code](https://www.moesif.com/blog/technical/api-design/Which-HTTP-Status-Code-To-Use-For-Every-CRUD-App/)
+- [Build A REST API With Node.js, Express, & MongoDB](https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw)
+- [Public APIs](https://github.com/public-apis/public-apis)
+
 
 ## **Resources-401**:
 
@@ -46,6 +56,7 @@
 - [React Bootstrap](https://react-bootstrap.github.io/)
 - [React State Vs Props](https://www.youtube.com/watch?v=IYvD9oBCuJI)
 - [React Docs](https://reactjs.org/docs/getting-started.html)
+- [React Bootstrap - Forms](https://react-bootstrap.github.io/components/forms/)
 
 
 [Back](https://nooromari.github.io/reading-notes)

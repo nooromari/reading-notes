@@ -47,6 +47,19 @@
 - [Build A REST API With Node.js, Express, & MongoDB](https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw)
 - [Public APIs](https://github.com/public-apis/public-apis)
 
+- [Modern JS youtube](https://www.youtube.com/playlist?list=PLVngfM2hsbi-L6G8qlWd8RyRbuTamHt3k)
+- [forEach](https://codefellows.github.io/code-301-guide/curriculum/class-01/challenges/)
+- [map](https://codefellows.github.io/code-301-guide/curriculum/class-02/challenges/)
+- [filter](https://codefellows.github.io/code-301-guide/curriculum/class-03/challenges/)
+- [sort](https://codefellows.github.io/code-301-guide/curriculum/class-04/challenges/)
+- [reduce](https://codefellows.github.io/code-301-guide/curriculum/class-05/challenges/)
+- [Value vs. Reference](https://codefellows.github.io/code-301-guide/curriculum/class-06/challenges/)
+- [Array and String Methods](https://codefellows.github.io/code-301-guide/curriculum/class-07/challenges/) - [DEMO](https://codefellows.github.io/code-301-guide/curriculum/class-07/challenges/DEMO.html)
+- [Regular Expressions](https://codefellows.github.io/code-301-guide/curriculum/class-08/challenges/) - [Regex Runner](https://regex101.com/) - [DEMO](https://codefellows.github.io/code-301-guide/curriculum/class-08/challenges/DEMO.html)
+- [Object Iteration](https://codefellows.github.io/code-301-guide/curriculum/class-09/challenges/) - [DEMO](https://codefellows.github.io/code-301-guide/curriculum/class-09/challenges/DEMO.html)
+- [Nested For Loops](https://codefellows.github.io/code-301-guide/curriculum/class-10/challenges/) - [DEMO](https://codefellows.github.io/code-301-guide/curriculum/class-10/challenges/DEMO.html)
+- [String Manipulation](https://codefellows.github.io/code-301-guide/curriculum/class-13/challenges/) - [DEMO](https://codefellows.github.io/code-301-guide/curriculum/class-13/challenges/DEMO.html)
+
 
 ## **Resources-401**:
 

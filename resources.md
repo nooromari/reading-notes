@@ -72,4 +72,11 @@
 - [React Bootstrap - Forms](https://react-bootstrap.github.io/components/forms/)
 
 
+## Practice :
+- [Hackerrank](https://www.hackerrank.com/dashboard)
+- [W3Schools Exercises](https://www.w3schools.com/exercises/index.php)
+- [CSS Grid](https://cssgridgarden.com/)
+- [CSS Flex](https://flexboxfroggy.com/)
+- [CSS Selectors](https://flukeout.github.io/)
+
 [Back](https://nooromari.github.io/reading-notes)

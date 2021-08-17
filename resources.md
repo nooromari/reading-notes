@@ -79,4 +79,9 @@
 - [CSS Flex](https://flexboxfroggy.com/)
 - [CSS Selectors](https://flukeout.github.io/)
 
+## SetUp
+- [WSL Doc](https://docs.microsoft.com/en-us/windows/wsl/)
+- [WSL MongoDB SetUp](https://docs.microsoft.com/en-us/windows/wsl/tutorials/wsl-database#install-mongodb)
+- [Code 401 Javascript Setup](https://codefellows.github.io/setup-guide/code-401-javascript/4-postgres.html)
+
 [Back](https://nooromari.github.io/reading-notes)

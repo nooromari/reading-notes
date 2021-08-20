@@ -34,6 +34,7 @@
 
 
 ## **Resources-301**:
+
 - [ECMAScript 2015(ES6)](https://262.ecma-international.org/6.0/)
 - [Arrow Functions](https://wesbos.com/arrow-functions)
 - [Arrow Functions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions)
@@ -45,7 +46,33 @@
 - [SQL vs NoSQL](https://www.thegeekstuff.com/2014/01/sql-vs-nosql-db/?utm_source=tuicool)
 - [HTTP Status Code](https://www.moesif.com/blog/technical/api-design/Which-HTTP-Status-Code-To-Use-For-Every-CRUD-App/)
 - [Build A REST API With Node.js, Express, & MongoDB](https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw)
-- [Public APIs](https://github.com/public-apis/public-apis)
+- **[Public APIs](https://github.com/public-apis/public-apis)**
+- [SMACSS-Scalable and Modular Architecture for CSS](http://smacss.com/)
+- [Flexbox](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox)
+- [Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+- [{{mustache}}](https://github.com/janl/mustache.js)
+- [Regex tutorial](https://medium.com/factory-mind/regex-tutorial-a-simple-cheatsheet-by-examples-649dc1c3f285)
+- [Responsive Layouts](https://medium.com/samsung-internet-dev/common-responsive-layouts-with-css-grid-and-some-without-245a862f48df)
+- [Guide to Grid-CSS](https://css-tricks.com/snippets/css/complete-guide-grid/)
+- [NPM JS Docs](https://docs.npmjs.com/about-npm)
+- [Express JS Docs](http://expressjs.com/en/4x/api.html)
+- [dotenv Docs](https://www.npmjs.com/package/dotenv)
+- [explained REST](https://gist.github.com/brookr/5977550)
+- [Superagent Docs](https://visionmedia.github.io/superagent/)
+- [PostgreSQL Docs](https://www.postgresql.org/docs/)
+- [PostgreSQL Shell Cheat Sheet](https://github.com/LTUC/amman-301d16/blob/main/class-08/cheatsheets/postgres-shell.md)
+- [SQL Cheat Sheet](https://github.com/LTUC/amman-301d16/blob/main/class-08/cheatsheets/sql.md)
+- [Heroku Postgres Docs](https://devcenter.heroku.com/articles/heroku-postgresql)
+- [Steps to Deploy to Heroku with a Postgres Database](https://github.com/LTUC/amman-301d16/blob/main/class-08/cheatsheets/heroku.md)
+- [Functional Programming Concepts](https://medium.com/the-renaissance-developer/concepts-of-functional-programming-in-javascript-6bc84220d2aa)
+- [Refactoring Javascript for Readability](https://dev.to/healeycodes/refactoring-javascript-for-performance-and-readability-with-examples-1hec)
+- [Call stack](https://developer.mozilla.org/en-US/docs/Glossary/Call_stack)
+- [JavaScript Call Stack](https://www.freecodecamp.org/news/understanding-the-javascript-call-stack-861e41ae61d4/)
+- [JavaScript error messages](https://codeburst.io/javascript-error-messages-debugging-d23f84f0ae7c)
+- [JavaScript error reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors)
+
+
+### Code Challenge:
 
 - [Modern JS youtube](https://www.youtube.com/playlist?list=PLVngfM2hsbi-L6G8qlWd8RyRbuTamHt3k)
 - [forEach](https://codefellows.github.io/code-301-guide/curriculum/class-01/challenges/)
@@ -78,10 +105,12 @@
 - [CSS Grid](https://cssgridgarden.com/)
 - [CSS Flex](https://flexboxfroggy.com/)
 - [CSS Selectors](https://flukeout.github.io/)
+- [regexr](https://regexr.com/)
 
 ## SetUp
 - [WSL Doc](https://docs.microsoft.com/en-us/windows/wsl/)
 - [WSL MongoDB SetUp](https://docs.microsoft.com/en-us/windows/wsl/tutorials/wsl-database#install-mongodb)
+- [Node JS Docs](https://nodejs.org/en/)
 - [Code 401 Javascript Setup](https://codefellows.github.io/setup-guide/code-401-javascript/4-postgres.html)
 
 [Back](https://nooromari.github.io/reading-notes)

@@ -70,6 +70,15 @@
 - [JavaScript Call Stack](https://www.freecodecamp.org/news/understanding-the-javascript-call-stack-861e41ae61d4/)
 - [JavaScript error messages](https://codeburst.io/javascript-error-messages-debugging-d23f84f0ae7c)
 - [JavaScript error reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors)
+- [Intro to EJS in ExpressJS](https://www.youtube.com/playlist?list=PL7sCSgsRZ-slYARh3YJIqPGZqtGVqZRGt)
+- [EJS Docs](https://ejs.co/)
+- [How To Use EJS to Template Your Node Application](https://www.digitalocean.com/community/tutorials/how-to-use-ejs-to-template-your-node-application)
+- [express()](http://expressjs.com/en/5x/api.html#express)
+- [Forms in HTML5](https://htmlreference.io/forms/)
+- [Sending form data](https://developer.mozilla.org/en-US/docs/Learn/Forms/Sending_and_retrieving_form_data)
+- [Styling a HTML5 Form](https://www.youtube.com/playlist?list=PL4cUxeGkcC9g5_p_BVUGWykHfqx6bb7qK)
+- [Database Normalization](https://www.essentialsql.com/database-normalization/)
+- [Database Normalization-lab](https://github.com/LTUC/amman-301d16/tree/main/class-14/lab)
 
 
 ### Code Challenge:
@@ -97,6 +106,7 @@
 - [React State Vs Props](https://www.youtube.com/watch?v=IYvD9oBCuJI)
 - [React Docs](https://reactjs.org/docs/getting-started.html)
 - [React Bootstrap - Forms](https://react-bootstrap.github.io/components/forms/)
+- [Create React App](https://codefellows.github.io/code-301-guide/curriculum/city-explorer-app/front-end/)
 
 
 ## Practice :

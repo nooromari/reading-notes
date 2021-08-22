@@ -97,7 +97,16 @@
 - [String Manipulation](https://codefellows.github.io/code-301-guide/curriculum/class-13/challenges/) - [DEMO](https://codefellows.github.io/code-301-guide/curriculum/class-13/challenges/DEMO.html)
 
 
+- **[.gitignore](https://github.com/LTUC/amman-python-401d2/blob/master/.gitignore)**
+
 ## **Resources-401**:
+
+- [Bash Command Line Tutorials](https://ryanstutorials.net/linuxtutorial/)
+- [Comman line Cheat sheet](https://ryanstutorials.net/linuxtutorial/cheatsheet.php)
+- [Names and Values in Python](https://www.youtube.com/watch?v=_AEJHKGk9ns)
+- [A beginner's guide to Big O Notation](https://rob-bell.net/2009/06/a-beginners-guide-to-big-o-notation)
+- [Python Module of the Week](https://pymotw.com/3/index.html)
+
 
 
 ### React
@@ -121,6 +130,7 @@
 - [WSL Doc](https://docs.microsoft.com/en-us/windows/wsl/)
 - [WSL MongoDB SetUp](https://docs.microsoft.com/en-us/windows/wsl/tutorials/wsl-database#install-mongodb)
 - [Node JS Docs](https://nodejs.org/en/)
+- [Python](https://github.com/LTUC/amman-python-401d5/blob/main/prework/setup.md)
 - [Code 401 Javascript Setup](https://codefellows.github.io/setup-guide/code-401-javascript/4-postgres.html)
 
 [Back](https://nooromari.github.io/reading-notes)

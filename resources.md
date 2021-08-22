@@ -106,7 +106,32 @@
 - [Names and Values in Python](https://www.youtube.com/watch?v=_AEJHKGk9ns)
 - [A beginner's guide to Big O Notation](https://rob-bell.net/2009/06/a-beginners-guide-to-big-o-notation)
 - [Python Module of the Week](https://pymotw.com/3/index.html)
+- [TDD with Python](https://code.likeagirl.io/in-tests-we-trust-tdd-with-python-af69f47e6932)
+- [if __name__ == “__main__”:](https://www.geeksforgeeks.org/what-does-the-if-__name__-__main__-do/)
+- [Recursion](https://www.geeksforgeeks.org/recursion/) - [Video](https://www.youtube.com/watch?v=Mv9NEXX1VHc)
+- [Python Modules and Packages](https://realpython.com/python-modules-packages/) - [Video](https://realpython.com/lessons/python-modules-packages-overview/)
+- [Python Lists](https://developers.google.com/edu/python/lists)
+- [Python Strings](https://developers.google.com/edu/python/strings)
+- [Pytest Documentation](https://docs.pytest.org/en/latest/)
+- [PyTest Tutorial](https://www.guru99.com/pytest-tutorial.html)
+- [Reading and Writing Files in Python](https://realpython.com/read-write-files-python/) - [Video](https://realpython.com/courses/reading-and-writing-files-python/) - [Quiz](https://realpython.com/quizzes/read-write-files-python/)
+- [Python Exceptions](https://realpython.com/python-exceptions/)
+- [Classes and Objects](https://www.learnpython.org/en/Classes_and_Objects)
+- [Thinking Recursively in Python](https://realpython.com/python-thinking-recursively/)
+- [Pytest Fixtures](https://docs.pytest.org/en/latest/explanation/fixtures.html#about-fixtures)
+- [Fixtures and Coverage](https://www.linuxjournal.com/content/python-testing-pytest-fixtures-and-coverage) 
 
+### Data Structures and Algorithms:
+
+- [My Repo](https://github.com/nooromari/data-structures-and-algorithms)
+- [Whiteboard Workflow](https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Whiteboard_Workflow.html)
+- [Binary search algorithm](https://en.wikipedia.org/wiki/Binary_search_algorithm)
+
+
+#### Interview Tech Quastion 
+
+1. [Given a matrix, find the sum of each row](https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Code_401/class-04/interview-01.html)
+1. [Generate the nth Fibonacci number, 2 different ways](https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Code_401/class-04/interview-02.html)
 
 
 ### React
@@ -125,6 +150,7 @@
 - [CSS Flex](https://flexboxfroggy.com/)
 - [CSS Selectors](https://flukeout.github.io/)
 - [regexr](https://regexr.com/)
+- [Leetcode](https://leetcode.com/problemset/all/?page=1)
 
 ## SetUp
 - [WSL Doc](https://docs.microsoft.com/en-us/windows/wsl/)

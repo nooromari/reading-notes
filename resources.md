@@ -104,7 +104,6 @@
 - [Bash Command Line Tutorials](https://ryanstutorials.net/linuxtutorial/)
 - [Comman line Cheat sheet](https://ryanstutorials.net/linuxtutorial/cheatsheet.php)
 - [Names and Values in Python](https://www.youtube.com/watch?v=_AEJHKGk9ns)
-- [A beginner's guide to Big O Notation](https://rob-bell.net/2009/06/a-beginners-guide-to-big-o-notation)
 - [Python Module of the Week](https://pymotw.com/3/index.html)
 - [TDD with Python](https://code.likeagirl.io/in-tests-we-trust-tdd-with-python-af69f47e6932)
 - [if __name__ == “__main__”:](https://www.geeksforgeeks.org/what-does-the-if-__name__-__main__-do/)
@@ -120,18 +119,40 @@
 - [Thinking Recursively in Python](https://realpython.com/python-thinking-recursively/)
 - [Pytest Fixtures](https://docs.pytest.org/en/latest/explanation/fixtures.html#about-fixtures)
 - [Fixtures and Coverage](https://www.linuxjournal.com/content/python-testing-pytest-fixtures-and-coverage) 
+- [How to use Random Module](https://www.pythonforbeginners.com/random/how-to-use-the-random-module-in-python) - [docs](https://docs.python.org/3/library/random.html)
+- [Risk Analysis](https://www.edureka.co/blog/risk-analysis-in-software-testing/)
+- [TestCoverage](https://martinfowler.com/bliki/TestCoverage.html)
+- [Dependency Injection](https://www.freecodecamp.org/news/a-quick-intro-to-dependency-injection-what-it-is-and-when-to-use-it-7578c84fa88f/)
+- [Python Scope](https://realpython.com/python-scope-legb-rule/)
+- [List Comprehensions in Python](https://www.pythonforbeginners.com/basics/list-comprehensions-in-python)
+- [Python Decorators](https://realpython.com/primer-on-python-decorators/)
+- [Debugging with PySnooper](https://www.pythonpodcast.com/pysnooper-python-debugging-episode-241/)
+
 
 ### Data Structures and Algorithms:
 
 - [My Repo](https://github.com/nooromari/data-structures-and-algorithms)
 - [Whiteboard Workflow](https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Whiteboard_Workflow.html)
 - [Binary search algorithm](https://en.wikipedia.org/wiki/Binary_search_algorithm)
+- [Linked List](https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Code_401/class-05/resources/singly_linked_list.html)
+- [What’s a Linked List-1](https://medium.com/basecs/whats-a-linked-list-anyway-part-1-d8b7e6508b9d)
+- [What’s a Linked List-2](https://medium.com/basecs/whats-a-linked-list-anyway-part-2-131d96f71996)
+- [Stacks and Queues](https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Code_401/class-10/resources/stacks_and_queues.html)
+
+
+### Big O Notation
+- [A beginner's guide to Big O Notation](https://rob-bell.net/2009/06/a-beginners-guide-to-big-o-notation)
+- [Big O Notation-video](https://www.youtube.com/watch?v=v4cd1O4zkGw)
+- [Don't be CONFUSED by BIG O notation anymore!-video](https://www.youtube.com/watch?v=5Uqawfl0VHQ)
 
 
 #### Interview Tech Quastion 
 
 1. [Given a matrix, find the sum of each row](https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Code_401/class-04/interview-01.html)
 1. [Generate the nth Fibonacci number, 2 different ways](https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Code_401/class-04/interview-02.html)
+1. [Reverse a Linked List](https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Code_401/class-09/interview-01.html)
+1. [Validate whether or not a Linked List is palindrome.](https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Code_401/class-09/interview-02.html)
+
 
 
 ### React
@@ -151,6 +172,7 @@
 - [CSS Selectors](https://flukeout.github.io/)
 - [regexr](https://regexr.com/)
 - [Leetcode](https://leetcode.com/problemset/all/?page=1)
+- [codepen](https://codepen.io/)
 
 ## SetUp
 - [WSL Doc](https://docs.microsoft.com/en-us/windows/wsl/)

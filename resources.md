@@ -152,7 +152,24 @@
 1. [Generate the nth Fibonacci number, 2 different ways](https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Code_401/class-04/interview-02.html)
 1. [Reverse a Linked List](https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Code_401/class-09/interview-01.html)
 1. [Validate whether or not a Linked List is palindrome.](https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Code_401/class-09/interview-02.html)
-
+1. [Duck Duck Goose](https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Code_401/class-14/interview-02.html)
+1. [Max stack](https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Code_401/class-14/interview-01.html)
+1. [Sum of numbers in a binary tree](https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Code_401/class-19/interview-01.html)
+1. [Comparing two file different file directories](https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Code_401/class-19/interview-02.html)
+1. [Implement Mergesort](https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Code_401/class-29/interview-01.html)
+1. [Implement Quicksort](https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Code_401/class-29/interview-02.html)
+1. [Determine the most common word in a book](https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Code_401/class-34/interview-01.html)
+1. [Determine if a string is full of unique characters](https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Code_401/class-34/interview-02.html)
+1. [Convert an adjacency matrix representation of a graph to an adjacency list representation](https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Code_401/class-39/interview-01.html)
+1. [Given a graph, are 2 given nodes connected?](https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Code_401/class-39/interview-02.html)
+1. [Design a system to track browser navigation history](https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Code_401/class-41/interview-01.html)
+1. [Identify anagrams](https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Code_401/class-41/interview-02.html)
+1. [Reverse a string, three different ways](https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Code_401/class-42/interview-01.html)
+1. [Sanitize spaces in a URL](https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Code_401/class-42/interview-02.html)
+1. [Estimate water usage for a given sprinkler system](https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Code_401/class-43/interview-01.html)
+1. [Convert a year to Roman Numerals](https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Code_401/class-43/interview-02.html)
+1. [Rotate a matrix](https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Code_401/class-44/interview-01.html)
+1. [Find largest product possible of 3 integers from within a list](https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Code_401/class-44/interview-02.html)
 
 
 ### React

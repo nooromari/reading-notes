@@ -151,6 +151,9 @@
 
 #### Interview Tech Quastion 
 
+- **[Technical Question Examples](https://codefellows.github.io/common_curriculum/career_coaching/401/workshop-4/assignments/technical-interview-questions)**
+- **[Interview Question Examples](https://codefellows.github.io/common_curriculum/career_coaching/401/workshop-4/assignments/behavioral-interview-questions)**
+
 1. [Given a matrix, find the sum of each row](https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Code_401/class-04/interview-01.html)
 1. [Generate the nth Fibonacci number, 2 different ways](https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Code_401/class-04/interview-02.html)
 1. [Reverse a Linked List](https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Code_401/class-09/interview-01.html)
